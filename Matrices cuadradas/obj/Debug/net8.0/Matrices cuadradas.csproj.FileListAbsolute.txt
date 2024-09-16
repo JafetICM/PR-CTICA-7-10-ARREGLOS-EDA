@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\bin\Debug\net8.0\Matrices cuadradas.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\bin\Debug\net8.0\Matrices cuadradas.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\bin\Debug\net8.0\Matrices cuadradas.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\bin\Debug\net8.0\Matrices cuadradas.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\bin\Debug\net8.0\Matrices cuadradas.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\obj\Debug\net8.0\Matrices cuadradas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\obj\Debug\net8.0\Matrices cuadradas.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\obj\Debug\net8.0\Matrices cuadradas.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\obj\Debug\net8.0\Matrices cuadradas.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\obj\Debug\net8.0\Matrices cuadradas.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\obj\Debug\net8.0\refint\Matrices cuadradas.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\obj\Debug\net8.0\Matrices cuadradas.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\obj\Debug\net8.0\Matrices cuadradas.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Matrices cuadradas\obj\Debug\net8.0\ref\Matrices cuadradas.dll
