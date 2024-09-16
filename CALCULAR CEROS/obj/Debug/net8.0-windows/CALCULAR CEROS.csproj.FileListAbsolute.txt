@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\bin\Debug\net8.0-windows\CALCULAR CEROS.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\bin\Debug\net8.0-windows\CALCULAR CEROS.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\bin\Debug\net8.0-windows\CALCULAR CEROS.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\bin\Debug\net8.0-windows\CALCULAR CEROS.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\bin\Debug\net8.0-windows\CALCULAR CEROS.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\obj\Debug\net8.0-windows\CALCULAR CEROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\obj\Debug\net8.0-windows\CALCULAR CEROS.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\obj\Debug\net8.0-windows\CALCULAR CEROS.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\obj\Debug\net8.0-windows\CALCULAR CEROS.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\obj\Debug\net8.0-windows\CALCULAR CEROS.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\obj\Debug\net8.0-windows\refint\CALCULAR CEROS.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\obj\Debug\net8.0-windows\CALCULAR CEROS.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\obj\Debug\net8.0-windows\CALCULAR CEROS.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CALCULAR CEROS\obj\Debug\net8.0-windows\ref\CALCULAR CEROS.dll
