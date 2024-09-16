@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\bin\Debug\net8.0\CuadroMágico.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\bin\Debug\net8.0\CuadroMágico.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\bin\Debug\net8.0\CuadroMágico.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\bin\Debug\net8.0\CuadroMágico.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\bin\Debug\net8.0\CuadroMágico.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\obj\Debug\net8.0\CuadroMágico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\obj\Debug\net8.0\CuadroMágico.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\obj\Debug\net8.0\CuadroMágico.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\obj\Debug\net8.0\CuadroMágico.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\obj\Debug\net8.0\CuadroMágico.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\obj\Debug\net8.0\refint\CuadroMágico.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\obj\Debug\net8.0\CuadroMágico.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\obj\Debug\net8.0\CuadroMágico.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\CuadroMágico\obj\Debug\net8.0\ref\CuadroMágico.dll
